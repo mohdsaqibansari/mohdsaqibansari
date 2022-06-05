@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohd Saqib Ansari</h1>
+<h1 align="center">Hi 👋, I'm Saqib</h1>
 <h3 align="center">A painstaking Data Science Learner from Ambala,India</h3>
 
 - 🔭 I’m currently working on **Hand Written Character Recognition with different Machine Learning Algorithms**
