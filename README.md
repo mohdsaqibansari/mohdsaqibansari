@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning Projects**
 
-- 📝 I regularly write articles on [[https://simplelinearregressioneasy.blogspot.com/2022/05/simplelinearregressioneasy.html](https://www.blogger.com/u/1/blog/posts/4625522920371179003)]
+- 📝 I regularly write articles on https://www.blogger.com/u/1/blog/posts/4625522920371179003
 
 - 📫 How to reach me **mdsaqibansari007@gmail.com**
 
