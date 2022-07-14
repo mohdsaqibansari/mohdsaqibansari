@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Hand Written Character Recognition with different Machine Learning Algorithms**
 
-- 🌱 I’m currently learning **Python with DSA, Machine Learning and JavaScript**
+- 🌱 I’m currently learning **Python, Machine Learning and JavaScript with DSA**
 
 - 🤝 I’m looking for help with **Machine Learning Projects**
 
