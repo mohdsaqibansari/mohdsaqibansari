@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saqib</h1>
-<h3 align="center">A painstaking Data Science Learner from Ambala,India</h3>
+<h3 align="center">A painstaking Learner from Ambala,India</h3>
 
-- 🔭 I’m currently working on **Hand Written Character Recognition with different Machine Learning Algorithms**
+- 🔭 I’m currently working on **Handwritten Character Recognition with different Machine Learning Algorithms**
 
 - 🌱 I’ve worked on **Verilog, Pspice, Latex, Python, Machine Learning and JavaScript with DSA.**
 
