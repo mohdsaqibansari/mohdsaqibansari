@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Hand Written Character Recognition with different Machine Learning Algorithms**
 
-- 🌱 I’m currently learning **Python, Machine Learning and JavaScript with DSA**
+- 🌱 I’ve worked on **Verilog, Pspice, Latex, Python, Machine Learning and JavaScript with DSA.**
 
-- 🤝 I’m looking for help with **Machine Learning Projects**
+- 🤝 I’m looking for help with **Machine Learning, Verilog and Pspice Projects.**
 
 - 📝 I regularly write articles on https://www.blogger.com/u/1/blog/posts/4625522920371179003
 
